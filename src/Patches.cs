@@ -1,4 +1,6 @@
 ﻿
+using Il2CppTLD.Gear;
+
 namespace PineNeedleTeaMod
 {
 
@@ -17,7 +19,18 @@ namespace PineNeedleTeaMod
             }
         }
     }
-    
+    [HarmonyPatch(typeof(GearItem), nameof(GearItem.Awake))]
+    internal class AddDrinkItemToNeedleTea
+    {
+        private static void Postfix(GearItem __instance)
+        {
+            if (__instance.name.Contains("GEAR_PineNeedleTea"))
+            {
+                Utilities.GetOrCreateComponent<DrinkItem>(__instance.gameObject);
+                Utilities.SetDrinkItem(__instance.gameObject.GetComponent<DrinkItem>(), __instance);
+            }
+        }
+    }
     [HarmonyPatch(typeof(GearItem),nameof(GearItem.Awake))]
     internal class ChangeTeaProperties
     {
