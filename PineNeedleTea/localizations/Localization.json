@@ -7,7 +7,8 @@
         "Italian": "Grappolo di Pino",
         "Russian": "Сосновая хвоинка",
         "German" : "Kiefernfaszikel",
-		"Traditional Chinese": "松針束"
+		"Traditional Chinese": "松針束",
+		"Spanish (Spain)" : "Fascículo de pino"
     },
     "GAMEPLAY_PineNeedleSingle": {
 
@@ -16,7 +17,8 @@
         "Italian": "Grappolo di Pino",
 	    "Russian": "Сосновая хвоинка",
         "German" : "Kiefernfaszikel",
-		"Traditional Chinese": "一簇松針束"
+		"Traditional Chinese": "一簇松針束",
+		"Spanish (Spain)" : "Fascículo de pino"
     },
     "GAMEPLAY_PineNeedleMultiple": {
 
@@ -25,7 +27,8 @@
         "Italian": "Grappoli di Pini",
         "Russian": "Сосновые хвоинки",
         "German" : "Kiefernbündel",
-		"Traditional Chinese": "一把松針束"
+		"Traditional Chinese": "一把松針束",
+		"Spanish (Spain)" : "Fascículos de pino"
     },
     "GAMEPLAY_PineNeedleDescription": {
 
@@ -34,7 +37,8 @@
         "Italian": "Un piccolo grappolo di pino caduto da un albero. Gli aghi si possono usare per preparare un tè.",
         "Russian": "Маленькая сосновая веточка, упавшая с дерева. Хвою можно использовать для заваривания чая.",
         "German" : "Ein kleines Kiefernbündel, das von einem Baum gefallen ist. Die Nadeln können zum Aufbrühen von Tee verwendet werden.",
-		"Traditional Chinese": "從樹上掉落的新鮮松針。這些針葉在陰乾並處理過後可用來泡松針茶。"
+		"Traditional Chinese": "從樹上掉落的新鮮松針。這些針葉在陰乾並處理過後可用來泡松針茶。",
+		"Spanish (Spain)" : "Un pequeño fascículo de pino caído de un arbol. Las agujas pueden usarse para preparar té."
     },
     "GAMEPLAY_PineNeedleDried": {
 
@@ -43,7 +47,8 @@
         "Italian": "Grappolo di Pino Secco",
         "Russian": "Высушенная сосновая хвоинка",
         "German" : "Getrocknete Kiefernfaszikel",
-		"Traditional Chinese": "乾燥松針束"
+		"Traditional Chinese": "乾燥松針束",
+		"Spanish (Spain)" : "Fascículo de pino seco"
     },
     "GAMEPLAY_PineNeedleDriedSingle": {
 
@@ -52,7 +57,8 @@
         "Italian": "Grappolo di Pino Secco",
 		"Russian": "Высушенная сосновая хвоинка",
         "German" : "Getrocknete Kiefernfaszikel",
-		"Traditional Chinese": "一簇乾燥松針束"
+		"Traditional Chinese": "一簇乾燥松針束",
+		"Spanish (Spain)" : "Fascículo de pino seco"
 		},
     "GAMEPLAY_PineNeedleDriedMultiple": {
 
@@ -61,7 +67,8 @@
         "Italian": "Grappoli di Pini Secchi",
 		"Russian": "Высушенные сосновые хвоинки",
         "German" : "Getrocknetes Kiefernbündel",
-		"Traditional Chinese": "一把乾燥松針束"
+		"Traditional Chinese": "一把乾燥松針束",
+		"Spanish (Spain)" : "Fascículos de pino secos"
     },
     "GAMEPLAY_PineNeedleDriedDescription": {
 
@@ -70,7 +77,8 @@
         "Italian": "Un grappolo di pino secco pieno di aghi. Un paio può essere preparato e infuso in un tè.",
 		"Russian": "Высушенная сосновая хвоя. Хвою можно использовать для заваривания чая.",
         "German" : "Ein getrocknetes Kiefernbündel, gefüllt mit Nadeln. Ein Bündel kann zum Aufbrühen von Tee zubereitet werden.",
-		"Traditional Chinese": "乾燥的松針束。取一小把並稍加處理後，即可用來泡松針茶。"
+		"Traditional Chinese": "乾燥的松針束。取一小把並稍加處理後，即可用來泡松針茶。",
+		"Spanish (Spain)" : "Un fascículo de pino seco lleno de agujas. Un puñado pueden prepararse para hacer té."
     },
     "GAMEPLAY_PineNeedlePrepared": {
 
@@ -79,7 +87,8 @@
         "Italian": "Aghi di Pino Preparati",
         "Russian": "Подготовленная сосновая хвоинка",
         "German" : "Präparierte Kiefernnadeln",
-		"Traditional Chinese": "製成的松針"
+		"Traditional Chinese": "製成的松針",
+		"Spanish (Spain)" : "Agujas de pino preparadas"
     },
     "GAMEPLAY_PineNeedlePreparedSingle": {
 
@@ -88,7 +97,8 @@
         "Italian": "Aghi di Pino Preparati",
 		"Russian": "Подготовленная сосновая хвоинка",
         "German" : "Präparierte Kiefernnadeln",
-		"Traditional Chinese": "一份製成的松針"
+		"Traditional Chinese": "一份製成的松針",
+		"Spanish (Spain)" : "Agujas de pino preparadas"
     },
     "GAMEPLAY_PineNeedlePreparedMultiple": {
 
@@ -97,7 +107,8 @@
         "Italian": "Aghi di Pini Preparati",
 		"Russian": "Подготовленные сосновые хвоинки",
         "German" : "Präparierte Kiefernnadeln",
-		"Traditional Chinese": "一把製成的松針"
+		"Traditional Chinese": "一把製成的松針",
+		"Spanish (Spain)" : "Agujas de pino preparadas"
     },
     "GAMEPLAY_PineNeedlePreparedDescription": {
 
@@ -106,7 +117,8 @@
         "Italian": "Un mazzo di aghi di pino preparati che possono essere infusi in un tè. Può anche servire come una buona esca per il fuoco.",
         "Russian": "Пучок подготовленных сосновых хвоинок, которые можно заваривать в качестве чая. Он также отлично подходит в качестве трута.",
         "German" : "Ein Bündel zubereiteter Kiefernnadeln, aus denen man einen Tee aufbrühen kann. Es eignet sich auch hervorragend als Zunder.",
-		"Traditional Chinese": "乾燥並經過處理的松針，可用來泡松針茶。同時也是極佳的引火物。"
+		"Traditional Chinese": "乾燥並經過處理的松針，可用來泡松針茶。同時也是極佳的引火物。",
+		"Spanish (Spain)" : "Un puñado de agujas de pino preparadas que pueden usarse para hacer té. También puede usarse como yesca."
     },
     "GAMEPLAY_PineNeedleTea": {
 
@@ -115,7 +127,8 @@
         "Italian": "Tè di Aghi di Pino",
         "Russian": "Чай из сосновой хвои",
         "German" : "Kiefernnadeltee",
-		"Traditional Chinese": "松針茶"
+		"Traditional Chinese": "松針茶",
+		"Spanish (Spain)" : "Té de agujas de pino"
     },
     "GAMEPLAY_PineNeedleTeaDescription": {
 
@@ -124,7 +137,8 @@
         "Italian": "Una tisana fatta da aghi di pino secchi. Berlo aiuta a dormire meglio.",
         "Russian": "Травяной чай, приготовленный из сушеной сосновой хвои. Его употребление поможет вам лучше спать.",
         "German" : "Ein Kräutertee aus getrockneten Kiefernnadeln. Wenn Sie ihn trinken, können Sie besser schlafen.",
-		"Traditional Chinese": "以乾燥松針沖泡的草本茶，富含維他命C，而且有些許助眠的功效"
+		"Traditional Chinese": "以乾燥松針沖泡的草本茶，富含維他命C，而且有些許助眠的功效",
+		"Spanish (Spain)" : "Un té herbal, hecho con agujas de pino secas. Beberlo te ayudará a dormir mejor."
     }
 
 }
